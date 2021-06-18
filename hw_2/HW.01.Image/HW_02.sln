@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW.01.Image", "HW.01.Image.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW.02.Casting", "..\HW.02.Casting\HW.02.Casting.csproj", "{945543E6-9E79-4C38-95EA-ABAD36414EF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW.03.Types", "..\HW.03.Types\HW.03.Types.csproj", "{76D093CE-9886-44D4-8123-689A582B7F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{945543E6-9E79-4C38-95EA-ABAD36414EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{945543E6-9E79-4C38-95EA-ABAD36414EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{945543E6-9E79-4C38-95EA-ABAD36414EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D093CE-9886-44D4-8123-689A582B7F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D093CE-9886-44D4-8123-689A582B7F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D093CE-9886-44D4-8123-689A582B7F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D093CE-9886-44D4-8123-689A582B7F2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
