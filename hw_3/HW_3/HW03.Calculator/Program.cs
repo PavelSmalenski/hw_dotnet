@@ -42,7 +42,7 @@ namespace HW03.Calculator
         {
             string inputStr;
 
-
+            // Add method calling
             Console.WriteLine("-- Add --");
             int add_a, add_b;
 
@@ -56,7 +56,7 @@ namespace HW03.Calculator
 
             Console.WriteLine($"Add result: {Calculator.Add(add_a, add_b)}");
 
-
+            // Substract method calling
             Console.WriteLine("-- Substract --");
             int sub_a, sub_b;
 
@@ -70,7 +70,7 @@ namespace HW03.Calculator
 
             Console.WriteLine($"Substract result: {Calculator.Substract(sub_a, sub_b)}");
 
-
+            // Multiply method calling
             Console.WriteLine("-- Multiply --");
             int mult_a, mult_b;
 
@@ -84,7 +84,7 @@ namespace HW03.Calculator
 
             Console.WriteLine($"Multiply result: {Calculator.Multiply(mult_a, mult_b)}");
 
-
+            // Div method calling
             Console.WriteLine("-- Div --");
             int div_a, div_b;
 
@@ -98,7 +98,7 @@ namespace HW03.Calculator
 
             Console.WriteLine($"Div result: {Calculator.Div(div_a, div_b)}");
 
-
+            // Mod method calling
             Console.WriteLine("-- Mod --");
             int mod_a, mod_b;
 
@@ -112,7 +112,7 @@ namespace HW03.Calculator
 
             Console.WriteLine($"Mod result: {Calculator.Mod(mod_a, mod_b)}");
 
-
+            // CircleArea method calling
             Console.WriteLine("-- CircleArea --");
             int area_radius;
 

@@ -4,11 +4,6 @@ namespace HW03.Birthday
 {
     class Program
     {
-        /// <summary>
-        /// Request integer value from user
-        /// </summary>
-        /// <param name="message">Message to be printed before input</param>
-        /// <returns>int: integer value from input</returns>
         static int ReadInt(string message)
         {
             while (true)
@@ -27,10 +22,6 @@ namespace HW03.Birthday
             }
         }
 
-        /// <summary>
-        /// Request month value
-        /// </summary>
-        /// <returns>int: month value</returns>
         static int ReadMonth()
         {
             while (true)
@@ -47,10 +38,6 @@ namespace HW03.Birthday
             }
         }
 
-        /// <summary>
-        /// Request year value
-        /// </summary>
-        /// <returns>int: year value</returns>
         static int ReadYear()
         {
             while (true)
@@ -66,8 +53,6 @@ namespace HW03.Birthday
                 return year;
             }
         }
-
-
 
         static void Main(string[] args)
         {
