@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW.01.Calc", "HW.01.Calc\HW.01.Calc.csproj", "{8E383AAB-449E-4FEE-B7CE-731155511F6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators", "HW.01.Calc\HW03.Operators.csproj", "{8E383AAB-449E-4FEE-B7CE-731155511F6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Alphabet", "HW03.Alphabet\HW03.Alphabet.csproj", "{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8E383AAB-449E-4FEE-B7CE-731155511F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E383AAB-449E-4FEE-B7CE-731155511F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E383AAB-449E-4FEE-B7CE-731155511F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
