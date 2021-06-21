@@ -39,6 +39,15 @@ namespace HW._01.Calc
             else
             {
                 Console.WriteLine($"Wrong - inserted value ({valueToCheck}) DOESN'T match the sum!");
+
+                if (valueToCheck > sum)
+                {
+                    Console.WriteLine(" Correct sum value is LESS than input!");
+                }
+                else
+                {
+                    Console.WriteLine(" Correct sum value is GREATER than input!");
+                }
             }
         }
 
