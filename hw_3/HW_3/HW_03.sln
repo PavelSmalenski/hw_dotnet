@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.PlayerMovement", "HW03
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{5443F898-0988-43E0-9E93-9DADF35C8135}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Calculator", "HW03.Calculator\HW03.Calculator.csproj", "{C1A0EBC5-BD99-47B6-B089-07F05D82BBDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{5443F898-0988-43E0-9E93-9DADF35C8135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5443F898-0988-43E0-9E93-9DADF35C8135}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5443F898-0988-43E0-9E93-9DADF35C8135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1A0EBC5-BD99-47B6-B089-07F05D82BBDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A0EBC5-BD99-47B6-B089-07F05D82BBDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A0EBC5-BD99-47B6-B089-07F05D82BBDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A0EBC5-BD99-47B6-B089-07F05D82BBDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
