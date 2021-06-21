@@ -28,10 +28,23 @@ namespace HW._01.Calc
             return outputInt;
         }
 
+        static void VerifyResult(int sum)
+        {
+            int valueToCheck = RequestInt(optMessage: "Value to compare with sum.");
+
+            if (valueToCheck == sum)
+            {
+                Console.WriteLine($"Correct - inserted value ({valueToCheck}) matches the sum!");
+            }
+            else
+            {
+                Console.WriteLine($"Wrong - inserted value ({valueToCheck}) DOESN'T match the sum!");
+            }
+        }
+
         static int Add(int a, int b)
         {
             int sum = a + b;
-            Console.WriteLine($"Add was called. Sum of tw0 provided integers is: {sum}");
             return sum;
         }
 
@@ -40,7 +53,7 @@ namespace HW._01.Calc
             int firstValue = RequestInt(optMessage: "1."),
                 secondValue = RequestInt(optMessage: "2.");
 
-            Add(firstValue, secondValue);
+            VerifyResult(Add(firstValue, secondValue));
         }
     }
 }
