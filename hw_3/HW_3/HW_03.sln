@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Alphabet", "HW03.Alpha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.PlayerMovement", "HW03.PlayerMovement\HW03.PlayerMovement.csproj", "{5A955A87-274B-47D3-B8A7-01797C30770F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Birthday", "HW03.Birthday\HW03.Birthday.csproj", "{5443F898-0988-43E0-9E93-9DADF35C8135}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5A955A87-274B-47D3-B8A7-01797C30770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A955A87-274B-47D3-B8A7-01797C30770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A955A87-274B-47D3-B8A7-01797C30770F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5443F898-0988-43E0-9E93-9DADF35C8135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5443F898-0988-43E0-9E93-9DADF35C8135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5443F898-0988-43E0-9E93-9DADF35C8135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5443F898-0988-43E0-9E93-9DADF35C8135}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
