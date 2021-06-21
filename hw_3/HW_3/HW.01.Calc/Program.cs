@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace HW._01.Calc
+namespace HW03.Operators
 {
     class Program
     {
