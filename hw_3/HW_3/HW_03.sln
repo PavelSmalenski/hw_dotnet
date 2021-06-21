@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Operators", "HW.01.Cal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.Alphabet", "HW03.Alphabet\HW03.Alphabet.csproj", "{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.PlayerMovement", "HW03.PlayerMovement\HW03.PlayerMovement.csproj", "{5A955A87-274B-47D3-B8A7-01797C30770F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FE555D55-94FA-44B6-8E4C-7034B3C2CEB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A955A87-274B-47D3-B8A7-01797C30770F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A955A87-274B-47D3-B8A7-01797C30770F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A955A87-274B-47D3-B8A7-01797C30770F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A955A87-274B-47D3-B8A7-01797C30770F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
