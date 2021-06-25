@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW02.ArrayShifting", "HW02.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.ArrayReverse", "HW03.ArrayReverse\HW03.ArrayReverse.csproj", "{746D9807-D1E9-4B0B-A156-CE226FC04FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW04.Verse", "HW04.Verse\HW04.Verse.csproj", "{AE60B4A0-BB9A-4954-A0DC-321FDEDA773F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE60B4A0-BB9A-4954-A0DC-321FDEDA773F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE60B4A0-BB9A-4954-A0DC-321FDEDA773F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE60B4A0-BB9A-4954-A0DC-321FDEDA773F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE60B4A0-BB9A-4954-A0DC-321FDEDA773F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
