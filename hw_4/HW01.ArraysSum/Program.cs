@@ -27,12 +27,12 @@ namespace HW01.ArraysSum
                 sumArray[i] = userArray[i] + randArray[i];
             }
 
-            printArray(userArray, "User-inserted array:");
-            printArray(randArray, "Random array:");
-            printArray(sumArray, "Array with sum:");
+            PrintArray(userArray, "User-inserted array:");
+            PrintArray(randArray, "Random array:");
+            PrintArray(sumArray, "Array with sum:");
         }
 
-        static void printArray(int[] array, string message = null)
+        static void PrintArray(int[] array, string message = null)
         {
             if (!string.IsNullOrEmpty(message))
             {
