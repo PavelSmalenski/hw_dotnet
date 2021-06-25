@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01.ArraysSum", "HW01.ArraysSum\HW01.ArraysSum.csproj", "{93F97865-EE00-4CA5-8A9F-EBB61D3D15CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW01.ArraysSum", "HW01.ArraysSum\HW01.ArraysSum.csproj", "{93F97865-EE00-4CA5-8A9F-EBB61D3D15CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02.ArrayShifting", "HW02.ArrayShifting\HW02.ArrayShifting.csproj", "{739511F7-06DA-44B8-9CF3-CD8D59A07E3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW02.ArrayShifting", "HW02.ArrayShifting\HW02.ArrayShifting.csproj", "{739511F7-06DA-44B8-9CF3-CD8D59A07E3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.ArrayReverse", "HW03.ArrayReverse\HW03.ArrayReverse.csproj", "{746D9807-D1E9-4B0B-A156-CE226FC04FE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{739511F7-06DA-44B8-9CF3-CD8D59A07E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739511F7-06DA-44B8-9CF3-CD8D59A07E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739511F7-06DA-44B8-9CF3-CD8D59A07E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746D9807-D1E9-4B0B-A156-CE226FC04FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
