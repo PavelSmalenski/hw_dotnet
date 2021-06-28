@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01.StringWithArithmetics"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02.CharactersModification", "HW02.CharactersModification\HW02.CharactersModification.csproj", "{3937FCF6-0B28-4D59-A678-813D8D74F0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW03.StrArrayConditionalSorting", "HW03.StrArrayConditionalSorting\HW03.StrArrayConditionalSorting.csproj", "{A080C854-0F7F-4CF0-86F8-3C28B36F5AED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3937FCF6-0B28-4D59-A678-813D8D74F0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3937FCF6-0B28-4D59-A678-813D8D74F0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3937FCF6-0B28-4D59-A678-813D8D74F0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A080C854-0F7F-4CF0-86F8-3C28B36F5AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A080C854-0F7F-4CF0-86F8-3C28B36F5AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A080C854-0F7F-4CF0-86F8-3C28B36F5AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A080C854-0F7F-4CF0-86F8-3C28B36F5AED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
