@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW1.StringWithArithmetics", "HW1.StringWithArithmetics\HW1.StringWithArithmetics.csproj", "{60FEC68E-0673-4AD2-9A76-23AAA4E4B7AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW01.StringWithArithmetics", "HW01.StringWithArithmetics\HW01.StringWithArithmetics.csproj", "{60FEC68E-0673-4AD2-9A76-23AAA4E4B7AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW02.CharactersModification", "HW02.CharactersModification\HW02.CharactersModification.csproj", "{3937FCF6-0B28-4D59-A678-813D8D74F0D3}"
 EndProject

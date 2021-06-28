@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace HW1.StringWithArithmetics
+namespace HW01.StringWithArithmetics
 {
     class Program
     {
