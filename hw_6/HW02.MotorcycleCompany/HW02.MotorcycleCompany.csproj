@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\HW01.AssemblyOne\HW01.AssemblyOne.csproj" />
-  </ItemGroup>
-
 </Project>
