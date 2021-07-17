@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW01.Employee", "HW01.Employee\HW01.Employee.csproj", "{07A0A1FD-D138-4232-8C3D-60CD02A91A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HW01.EmployeeManagement", "HW01.Employee\HW01.EmployeeManagement.csproj", "{07A0A1FD-D138-4232-8C3D-60CD02A91A97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStorage", "DataStorage\DataStorage.csproj", "{19BCEB9D-C14B-448C-B3E1-544FFD90B9F6}"
 EndProject

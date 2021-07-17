@@ -53,7 +53,7 @@ namespace HW01.EmployeeManagement.Models
 
         public override string ToString()
         {
-            return $"Full Name: {FirstName} {LastName}, Experience: {ExperienceYears}, Title: {this.GetType()}, Salary: {Salary}, GitHub: {GitURL}"
+            return $"Full Name: {FirstName} {LastName}, Experience: {ExperienceYears}, Title: {this.GetType().Name}, Salary: {Salary}, GitHub: {GitURL}";
         }
     }
 }
