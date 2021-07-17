@@ -8,7 +8,7 @@ namespace HW02.EmployeeManagement.Abstract
     {
         static void Main(string[] args)
         {
-            // Note: well... nothing really changed except for Employee becoming Abstract and Salary property too
+            // Note: well... nothing really changed except for Employee becoming Abstract together with Salary property
             var employeeManagement = new Controls.EmployeeManagement("Company_Name");
 
             employeeManagement.AddEmployee(new Junior("Name1", "Surname1", 1, "https://git.com/someGit1"));
