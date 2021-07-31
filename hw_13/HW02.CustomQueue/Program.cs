@@ -44,15 +44,22 @@ namespace HW02.CustomQueue
 
         static void TestQueue<T>(QueueBasics<T> queue)
         {
+            var separator = new string('=', 80);
+            Console.WriteLine(separator);
             Console.WriteLine($"Full queue: {queue}");
 
+            Console.WriteLine(separator);
             var item = queue.Peek();
             Console.WriteLine($"Queue after Peek: {queue}");
             Console.WriteLine($"Peeked item: {item}");
 
-            item = queue.Dequeue();
-            Console.WriteLine($"Queue after Dequeue: {queue}");
-            Console.WriteLine($"Dequeued item: {item}");
+            Console.WriteLine(separator);
+            for (int i = 0; i < 6; i++) // All queues in this program have 5 items so this test will try to dequeue from empty queue
+            {
+                item = queue.Dequeue();
+                Console.WriteLine($"{i + 1}: Queue after Dequeue: {queue}");
+                Console.WriteLine($"{i + 1}: Dequeued item: {item}");
+            }
         }
     }
 }
