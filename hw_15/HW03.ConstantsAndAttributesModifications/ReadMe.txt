@@ -1,0 +1,2 @@
+1. Constants: constants can not be changed as they are compile-time calculated values that goes into assembly itself
+2. Attributes: same as for constants - according to several Q/A websites (including MSDN) attributes values are (in most cases) stored in DLL/EXE and can not be changed as well, because attributes are also compile-time evaluated items
