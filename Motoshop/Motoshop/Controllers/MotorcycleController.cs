@@ -44,6 +44,11 @@ namespace Motoshop.Controllers
         {
             try
             {
+                if (!ModelState.IsValid)
+                {
+                    return View();
+                }
+
                 if (moto != null)
                 {
                     _motoRepository.Create(moto);
